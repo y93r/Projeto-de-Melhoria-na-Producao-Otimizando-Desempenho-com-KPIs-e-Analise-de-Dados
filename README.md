@@ -1,5 +1,7 @@
 # Projeto-de-Melhoria-na-Producao-Otimizando-Desempenho-com-KPIs-e-Analise-de-Dados
 
+Escrevi um artigo no [Linkedin](https://www.linkedin.com/pulse/projeto-de-melhoria-na-produ%2525C3%2525A7%2525C3%2525A3o-otimizando-desempenho-yara%3FtrackingId=OvKHu5GSTgC8GKVdoBehpg%253D%253D/?trackingId=OvKHu5GSTgC8GKVdoBehpg%3D%3D) onde detalho o uso da automação e das análises.
+
 ## TECNOLOGIAS USADAS:
 Python versão 3.10.9 <p>
  Bibliotecas: <p>
